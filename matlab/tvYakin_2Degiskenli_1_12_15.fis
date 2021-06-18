@@ -1,0 +1,66 @@
+[System]
+Name='tvYakin_2Degiskenli_1_12_15'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=25
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='S'
+Range=[0 300]
+NumMFs=5
+MF1='sinirUzak':'trimf',[99 125 150]
+MF2='uzak':'trimf',[149 175 200]
+MF3='cokUzak':'trimf',[199 250 300]
+MF4='yakin':'trimf',[49 75 100]
+MF5='cokYakin':'trimf',[0 0 50]
+
+[Input2]
+Name='Z'
+Range=[0 30]
+NumMFs=5
+MF1='CokHareketli':'trimf',[0 0 5]
+MF2='Hareketli':'trimf',[3 5.5 8]
+MF3='Sinir':'trimf',[7 10 12]
+MF4='Hareketsiz':'trimf',[15 22.5 30]
+MF5='AzHareketli':'trimf',[11 14.5 17]
+
+[Output1]
+Name='Ac'
+Range=[0 1]
+NumMFs=2
+MF1='ac':'trimf',[0 0 0]
+MF2='kapat':'trimf',[1 1 1]
+
+[Rules]
+5 1, 1 (1) : 1
+5 2, 1 (1) : 1
+5 3, 1 (1) : 1
+5 5, 2 (1) : 1
+5 4, 2 (1) : 1
+4 1, 1 (1) : 1
+4 2, 1 (1) : 1
+4 3, 1 (1) : 1
+4 5, 2 (1) : 1
+4 4, 2 (1) : 1
+1 1, 1 (1) : 1
+1 2, 1 (1) : 1
+1 3, 1 (1) : 1
+1 5, 2 (1) : 1
+1 4, 2 (1) : 1
+2 1, 1 (1) : 1
+2 2, 1 (1) : 1
+2 3, 1 (1) : 1
+2 5, 1 (1) : 1
+2 4, 1 (1) : 1
+3 1, 1 (1) : 1
+3 2, 1 (1) : 1
+3 3, 1 (1) : 1
+3 5, 1 (1) : 1
+3 4, 1 (1) : 1

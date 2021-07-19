@@ -94,5 +94,7 @@ Buna göre donanımda kullanılacak malzeme listesi şu şekildedir;
 4. Uzaklık algılama.
 5. PCB teknikleri
 
-## **Not** : Bu çalışma 
-47. ORTAÖĞRETİM ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMASI 'nda BİLGİSAYAR dalında  **TÜRKİYE üçüncüsü** olmuştur (06.05.2016).
+## **Not** : 
+Bu çalışma ,
+
+TUBİTAK 47. ORTAÖĞRETİM ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMASI 'nda BİLGİSAYAR dalında  **TÜRKİYE üçüncüsü** olmuştur (06.05.2016).

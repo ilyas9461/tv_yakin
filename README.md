@@ -57,7 +57,7 @@ Accordingly, the list of materials to be used in the hardware is as follows;
 2. Fuzzy Logic and c++
 3. Arduino programming with C++.
 4. Sense distance technics.
-5. Eclstronic circuits and PCB 
+5. Electronic circuits and PCB 
 
 ## **Note** : 
 This work ,

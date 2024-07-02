@@ -5,17 +5,17 @@
 
 Nowadays, there is almost no home without a television. Many parents have closely witnessed their children watching television during their upbringing and have tried to prevent it in their own ways. There is probably no parent who would not be disturbed by the sight of a child watching his favorite cartoon or commercial in front of the television.
 
-Some studies on why children watch television closely indicate that this is a result, not a cause and that the child may have one of the eye defects. In addition, the child's attention, the vividness of the stimuli, etc. For reasons such as It is thought that he watches television closely ("What should be the distance to watch television?").
+Some studies on why children watch television closely indicate that this is a result, not a cause and that the child may have one of the eye defects. In addition, the child's attention, the vividness of the stimuli, etc. For reasons such as It is thought that he watches television closely.
 
-It has been determined that watching television closely does not cause any great harm to children and especially to their eyes in the early stages. Eye fatigue, looking at shiny surfaces, exposure to even a small electromagnetic field, etc. It has been determined that it may cause harm (“Closely Harms of Watching Television", 2012)("What are the Harms of Technology to Children") ("Harms of Watching Television Closely"). Its most important effect is that it instils the habit of watching television, and its harmful effects on young children in terms of development cannot be counted.
+It has been determined that watching television closely does not cause great harm to children, especially their eyes, in the early stages. Eye fatigue, looking at shiny surfaces, exposure to a small electromagnetic field, etc. Damages have been identified. Its most important effect is that it creates the habit of watching television.
 
 Despite everything, it is unthinkable that any parent would consent to their children watching television closely. Especially today, when experts recommend that children between the ages of 0-4 should not watch television at all, if possible.
 
 However, parents are left alone in this regard in the chaos of social life. The allure of television and the intensity of social life have left them in a helpless situation. There is almost no parent who does not experience their children watching television closely.
 Effective television viewing distance comes to mind here. Studies have concluded that a distance of twice the screen size of the television (corner to corner) may be appropriate. Effective
-And for a healthy viewing, it is necessary to be outside this distance. As you get closer, the probability of the problems described above increases ("LED TV Viewing Distances").
+And for a healthy viewing, it is necessary to be outside this distance. As you get closer, the probability of the problems described above increases.
 
-So, what are the solution suggestions to eliminate this type of behaviour in the child? In general, most of the solutions given consist of recommendations ("What should be the distance to watch television?"). In our research, we could not find any features of the devices, vehicles or televisions used.
+So, what are the solution suggestions to eliminate this type of behaviour in the child? In general, most of the solutions given consist of recommendations. In our research, we could not find any features of the devices, vehicles or televisions used.
 
 ### **The goal of the project** :
 To develop a system that prevents young children from watching television closely and encourages children to avoid watching television closely.
